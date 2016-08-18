@@ -1,0 +1,5 @@
+cuppa.log
+*.sublime-project
+*.sublime-workspace
+.editorconfig
+*.pyc
